@@ -9,7 +9,7 @@ To set up the environment and run the code, follow these steps:
 <h3>1.	Clone the repository:</h3>
 bash
 
-git clone https://github.com/tejas4-dbda/brain-tumor-classification.git
+git clone https://github.com/tejas4-dbda/Brain-Tumor-Detection.git
 
 cd brain-tumor-classification
 
