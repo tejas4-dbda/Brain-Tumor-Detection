@@ -23,9 +23,9 @@ pip install -r requirements.txt
 <h2>Dataset</h2>
 The dataset is structured as follows:
 
-•	dataset3/All_images: Contains all images of brain tumors.
+•	dataset3/All_images: Contains all images of brain tumors.(https://www.kaggle.com/datasets/adityakomawar/dataset3)
 
-•	datasetno/no_tumor: Contains images with no tumor.
+•	datasetno/no_tumor: Contains images with no tumor.(https://www.kaggle.com/datasets/adityakomawar/datasetno)
 
 
 The images are categorized into four classes:
